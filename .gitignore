@@ -1,0 +1,16 @@
+# Ignore image data folder
+coco_images_resized/
+
+# Ignore pickle files
+*.pickle
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+venv/
+
+# Ignore ZIP files
+*.zip
